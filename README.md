@@ -6,6 +6,8 @@ Recapping TDD and Unitary Test with Alura Course TDD
 
 ## My Notes
 
+- [Notes](https://github.com/antonioChristofoletti/course-alura-tdd-java/blob/main/myNotes.md)
+
 ## Used Technologies
 
 - [Java](https://www.java.com/)
